@@ -4,7 +4,7 @@
 
 This Python library is designed to detect solar faculae in solar images taken with the [Helioseismic and Magnetic Imager](http://hmi.stanford.edu/) (HMI) instrument on the Solar Dynamics Observatory (SDO). The library uses a [U-Net](https://arxiv.org/abs/1505.04597) deep learning model to detect the faculae and extracts useful information and statistics from the detected faculae, such as their areas, positions, $B_{LOS}$, etc.
 
-This is the code and U-Net model produced for the article [Polar faculae and their relationship to the solar cycle](https://doi.org/10.1051/0004-6361/202554578) by A. Reche et. al.
+This is the code and U-Net model produced for the article [Polar faculae and their relationship to the solar cycle](https://doi.org/10.1051/0004-6361/202554578) by A. Reche et. al. 2025.
 
 ## Installation
 
