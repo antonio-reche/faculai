@@ -79,3 +79,22 @@ The model can be loaded either in `.h5` format or in Tensorflow SavedModel forma
 ## License
 
 FaculAI is released under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Citation
+
+If you use this code in your research and/or projects, please cite the following publication:
+
+```tex
+@article{Reche2025,
+  author    = {Reche, Antonio and Pastor Yabar, Adur and Griñón-Marín, Ana Belén},
+  journal   = {Astronomy &am; Astrophysics},
+  title     = {Polar faculae and their relationship to the solar cycle},
+  year      = {2025},
+  issn      = {1432-0746},
+  month     = jul,
+  pages     = {A340},
+  volume    = {699},
+  doi       = {10.1051/0004-6361/202554578},
+  publisher = {EDP Sciences},
+}
+```
